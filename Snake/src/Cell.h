@@ -35,4 +35,3 @@ private:
 	float mOffset;
 	float mSize;
 };
-

@@ -39,4 +39,3 @@ private:
 	Snake mSnake;
 	std::vector<Cell> mFoodCells;
 };
-

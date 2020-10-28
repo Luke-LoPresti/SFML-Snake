@@ -67,4 +67,3 @@ private:
 
 	sf::Time mTimeSinceLastUpdate;
 };
-

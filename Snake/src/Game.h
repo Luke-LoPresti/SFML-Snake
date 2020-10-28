@@ -53,4 +53,3 @@ private:
 
 	Board mBoard;
 };
-
