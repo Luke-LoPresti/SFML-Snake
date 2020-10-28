@@ -20,7 +20,8 @@ SFML Visual C++ 15 (2017) - 32-bit - http://www.sfml-dev.org/
 ### Building
 #### Method 1  
 The SFML libraries are already statically linked within the project.  
-A environment variable must be created called SFML_DIR which should point to the SFML root directory. Ex. SFML_DIR=C:\SFML-2.5.1  
+A environment variable must be created called SFML_DIR which should point to the SFML root directory.  
+Ex. SFML_DIR=C:\SFML-2.5.1  
 1. Open the file Snake.sln.
 1. Set the target to Debug or Release 32-bit (x86).
 1. Build and run.  
