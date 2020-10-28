@@ -5,7 +5,7 @@ The more food you eat, the longer the snake gets and the faster it moves! How lo
 ![snakeGif](Screenshots/snake.gif)  
   
 # Release Executable
-If you just wish to play the game, a release executable is available here.  
+If you just wish to play the game, a release executable is available [here.](https://github.com/Luke-LoPresti/SFML-Snake/releases/tag/1.0)  
   
 # Requirements
 **Please Note: Earlier versions may work.**  
