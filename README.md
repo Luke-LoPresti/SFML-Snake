@@ -1,5 +1,6 @@
 # Snake
 A simple snake game made with C++ and SFML.  
+The more food you eat, the longer the snake gets and the faster it moves! How long can you survive?
 
 ![snakeGif](Screenshots/snake.gif)  
   
