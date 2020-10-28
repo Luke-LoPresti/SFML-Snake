@@ -48,7 +48,7 @@ void Board::checkForCollisions()
 	}
 
 	// check if snake is on a food cell
-	for (auto it = mFoodCells.begin(); it < mFoodCells.end(); ++it)
+	for (auto it = mFoodCells.begin(); it != mFoodCells.end(); ++it)
 	{
 		if (mSnake.getHead().isAtPoint(it->getX(), it->getY()))
 		{
